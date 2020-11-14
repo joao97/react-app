@@ -1,0 +1,34 @@
+[
+    {
+        "img": "",
+        "name": "item-1",
+        "categories": [
+            {
+                "name": "subcatg-1"
+            },
+            {
+                "name": "subcatg-1"
+            },
+            {
+                "name": "subcatg-1"
+            }
+        ]
+    },
+    {
+        "img": "",
+        "name": "item-2",
+        "categories": [
+            {
+                "name": "qwe-1"
+            },
+            {
+                "name": "123-1"
+            }
+        ]
+    },
+    {
+        "img": "",
+        "name": "23",
+        "categories": []
+    }
+]
